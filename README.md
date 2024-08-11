@@ -1,7 +1,7 @@
 Shape Detection and Processing
 ==============================
 
-Welcome to the Shape Detection and Processing project! This project is divided into three main sections: **Isolation**, **Fragmented**, and **Occluded** shapes. Each section contains specific tasks related to detecting and processing 2D shapes from curves. The project focuses on developing algorithms for identifying and analyzing various geometric shapes in different scenarios.
+Welcome to our demo project! This project is divided into three main sections: **Isolation**, **Fragmented**, and **Occluded** shapes. Each section contains specific tasks related to detecting and processing 2D shapes from curves. The project focuses on developing mathematical algorithms for identifying and analyzing various geometric shapes in different scenarios. We have used pre-trained ResNet 50 model for occlusion detection.
 
 Project Structure
 -----------------
